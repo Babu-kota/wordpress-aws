@@ -1,8 +1,8 @@
 {
     "Parameters": {
-        "KeyName": "Babu_EC2",
-        "InstanceType": "t2.micro",
-        "SSHLocation": "10.0.0.1/32",
+        "KeyName": "spring2023",
+        "InstanceType": "t2.small",
+        "SSHLocation": "10.0.0.0/32",
         "DBName": "wordpressdb",
         "DBUser": "localdbuser",
         "DBPassword": "dummypassword",
